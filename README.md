@@ -1,6 +1,6 @@
 # Football game
 
-Simple football game /w phaser.js
+Simple football game /w phaser.js optimized for one Android tablet 
 
 ## Getting Started
 
